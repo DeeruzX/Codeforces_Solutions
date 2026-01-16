@@ -1,0 +1,2 @@
+main_input = input()
+print(main_input[0].upper() + main_input[1:])
